@@ -10,10 +10,10 @@ API developed with node and mongo
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:3000
+# serve api at localhost:3000
 npm run start
 
-# serve at localhost:8000 for webapp
+# serve at localhost:8080 for webapp
 http-serve
 
 ```
